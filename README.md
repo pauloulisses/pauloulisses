@@ -27,6 +27,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=0D1117)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117)
+![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=0D1117)
+
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white&labelColor=0D1117)
