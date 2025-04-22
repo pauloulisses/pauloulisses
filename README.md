@@ -22,7 +22,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
- 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=68A063&labelColor=0D1117)&nbsp; 
+
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=0D1117)
@@ -43,7 +46,9 @@
 
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117)
+![Mongoose](https://img.shields.io/badge/-Mongoose-0D1117?style=for-the-badge&logo=mongoose&logoColor=880000&labelColor=0D1117)
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
