@@ -43,9 +43,6 @@
  
   
 ### Estudando neste momento:
-
-![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-0D1117?style=for-the-badge&logo=mongoose&logoColor=880000&labelColor=0D1117)
