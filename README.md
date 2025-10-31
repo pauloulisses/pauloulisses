@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e129c&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6e129c&size=30&center=true&vCenter=true&width=700&lines=OLÁ,+MEU+NOME+É+Paulo+Ulisses!;Desenvolvedor+FullStack!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=6e129c&size=30&center=true&vCenter=true&width=700&lines=OLÁ,+MEU+NOME+É+Paulo+Ulisses!;Desenvolvedor+FullStack+Python!"/>
 </p>
 
 <div align="center">
@@ -27,11 +27,9 @@
 
 ### 🛠 Principais Habilidades
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
