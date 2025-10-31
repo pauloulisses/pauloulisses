@@ -51,9 +51,7 @@
 
 ---
 
-<div align="center">
-  <p><b>Contagem de visitantes:</b></p>
-  <p><img src="https://profile-counter.glitch.me/pauloulisses/count.svg" /></p>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e129c&height=120&section=footer"/>
