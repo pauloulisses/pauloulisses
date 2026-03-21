@@ -70,8 +70,6 @@ Atualmente, meus esforços estão focados em dominar o desenvolvimento Full Stac
 
 ---
 
-### 🌐 Conecte-se Comigo
-
 <div align="center">
   <a href="https://www.linkedin.com/in/pauloulisses" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -79,8 +77,10 @@ Atualmente, meus esforços estão focados em dominar o desenvolvimento Full Stac
   <a href="https://www.instagram.com/pauloulisses12/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="mailto:pauloulisses1212@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e129c&height=120&section=footer"/>
 
 
